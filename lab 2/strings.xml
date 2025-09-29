@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="add_button">+</string>
+    <string name="add_button_text">Добавить</string>
+    <string name="number_hint">Enter number</string>
+    <string name="add_button1">Кнопка 1</string>
+    <string name="add_button2">Кнопка 2</string>
+    <string name="add_button3">Кнопка 3</string>
+</resources>
