@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="graph">y = 1 - cos(x)</string>
+    <string name="max_x">Max X</string>
+    <string name="min_x">Min X</string>
+    <string name="draw">Draw</string>
+</resources>
