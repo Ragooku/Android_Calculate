@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Змейка</string>
+    <string name="game_title">Змейка</string>
+    <string name="play_button">Играть</string>
+    <string name="exit_button">Выход</string>
+    <string name="player_label">Игрок: %s</string>
+
+    <string name="leaderboard_title">Таблица лидеров</string>
+    <string name="leaderboard_empty_title">Пока нет игроков в таблице</string>
+    <string name="leaderboard_empty_subtitle">Сыграйте в игру, чтобы появиться здесь!</string>
+    <string name="points_suffix"> очков</string>
+    <string name="level_prefix">Ур. %d</string>
+    <string name="games_played_suffix"> игр</string>
+    <string name="back_button">Назад</string>
+
+    <string name="username_title">Введите ваш никнейм</string>
+    <string name="username_subtitle">Это имя будет отображаться в таблице лидеров</string>
+    <string name="username_hint">Введите ваш никнейм</string>
+    <string name="username_label">Никнейм</string>
+    <string name="save_and_play">Сохранить и играть</string>
+
+    <string name="score_label">Счёт: %d</string>
+    <string name="level_label">Уровень: %d</string>
+
+    <string name="game_over_title">Игра Окончена!</string>
+    <string name="final_score">Ваш счёт: %d</string>
+    <string name="reached_level">Достигнут уровень: %d</string>
+    <string name="play_again">Играть снова</string>
+    <string name="main_menu">Главное меню</string>
+
+    <string name="up_button">↑</string>
+    <string name="down_button">↓</string>
+    <string name="left_button">←</string>
+    <string name="right_button">→</string>
+
+    <string name="leaderboard_button">Таблица лидеров</string>
+    <string name="change_name_button">Сменить имя</string>
+
+    <string name="back_icon">Назад</string>
+    <string name="menu_background">Фон меню</string>
+    <string name="leaderboard_background">Фон таблицы лидеров</string>
+    <string name="username_background">Фон ввода имени</string>
+    <string name="game_background">Фон игры</string>
+    <string name="player_icon">Имя игрока</string>
+    <string name="no_data_icon">Нет данных</string>
+    <string name="medal_icon">Место %d</string>
+
+    <!-- Firebase related strings -->
+    <string name="refresh_icon">Refresh</string>
+    <string name="loading_leaderboard">Loading leaderboard...</string>
+    <string name="firebase_error">Could not load online leaderboard</string>
+    <string name="firebase_success">Online leaderboard loaded</string>
+    <string name="offline_mode">Using offline data</string>
+    <string name="firebase_icon">Firebase</string>
+    <string name="cloud_done">Cloud Done</string>
+    <string name="warning">Warning</string>
+    <!-- и другие отсутствующие ресурсы -->
+</resources>
